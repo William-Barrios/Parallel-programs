@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     omp_odd_even1
+relocations:     []
+...

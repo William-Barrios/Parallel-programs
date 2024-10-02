@@ -1,0 +1,8 @@
+Threaded programming is challenging.
+It requires synchronization mechanisms.
+Semaphores and mutexes are commonly used.
+Avoid data races by careful design.
+Multi-threading can increase performance.
+However, it adds complexity to the code.
+Deadlocks and race conditions are common issues.
+Proper locking strategies are essential.
